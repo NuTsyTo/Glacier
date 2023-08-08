@@ -1,5 +1,0 @@
-insert into congelateur (id, nom, description) values (1, 'Lorelei Yeates', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
-insert into congelateur (id, nom, description) values (2, 'Lamond Kyngdon', 'Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.');
-insert into congelateur (id, nom, description) values (3, 'Lily Whitsun', 'Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.');
-insert into congelateur (id, nom, description) values (4, 'Sunny Dalliston', 'Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.');
-insert into congelateur (id, nom, description) values (5, 'Rozella Cosser', 'In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.');
